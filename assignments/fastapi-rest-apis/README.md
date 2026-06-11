@@ -41,3 +41,19 @@ Completed program should:
 - Start the app with `uvicorn`
 - Include example request data or sample HTTP requests
 - Confirm the API returns expected JSON and status codes
+
+## 🚀 Setup and Run
+
+To install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+To start the app:
+
+```bash
+uvicorn starter-code:app --reload
+```
+
+Then open `http://127.0.0.1:8000/docs` to test the API interactively.
