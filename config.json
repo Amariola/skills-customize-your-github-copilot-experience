@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "lists-dictionaries-file-io",
+      "title": "Lists, Dictionaries, and File I/O",
+      "description": "Practice organizing and saving student data with Python lists, dictionaries, and file input/output.",
+      "path": "assignments/lists-dictionaries-file-io",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
